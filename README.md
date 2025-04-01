@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts![react news app](https://github.com/user-attachments/assets/d0049121-6460-4165-8922-c7c88c6be858)
+
 
 In the project directory, you can run:
 
